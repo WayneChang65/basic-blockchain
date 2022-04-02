@@ -1,7 +1,7 @@
 {
   "name": "basic-blockchain",
   "version": "1.0.0",
-  "description": "A basic blockchain implementation imitated Bitcoin",
+  "description": "basic-blockchain is a simple cryptocurrency blockchain implementation that mimics the principles of Bitcoin.",
   "main": "main.js",
   "scripts": {
     "start": "node ./main.js",
