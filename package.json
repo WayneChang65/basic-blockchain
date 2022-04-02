@@ -1,13 +1,18 @@
 {
   "name": "basic-blockchain",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic blockchain implementation imitated Bitcoin",
   "main": "main.js",
   "scripts": {
+    "start": "node ./main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Wayne Chang",
+  "author": "WayneChang65",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WayneChang65/basic-blockchain/issues"
+  },
+  "homepage": "https://github.com/WayneChang65/basic-blockchain#readme",
   "dependencies": {
     "@waynechang65/fml-consolelog": "^1.1.2",
     "crypto-js": "^4.1.1",
