@@ -1,6 +1,6 @@
 {
   "name": "basic-blockchain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "basic-blockchain is a simple cryptocurrency blockchain implementation that mimics the principles of Bitcoin.",
   "main": "main.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "@waynechang65/fml-consolelog": "^1.1.2",
     "crypto-js": "^4.1.1",
     "elliptic": "^6.5.4",
-    "prettyjson": "^1.2.5"
+    "prettyjson": "^1.2.5",
+    "random-number-csprng": "^1.0.2"
   }
 }
